@@ -185,6 +185,10 @@ a {
   transition: 0.7s;
 }
 
+.project-button a {
+  padding: 0.5rem 0px;
+}
+
 .project-button:hover {
   background-color: var(--blue);
   transition: 0.7s;
